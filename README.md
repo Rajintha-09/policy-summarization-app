@@ -55,6 +55,4 @@ streamlit run streamlit_app.py
 * Interactive left/right panel web interface
 * Supports multiple scenarios from the same summary
 
-## Author
-Your Name
-* GitHub: [your-username](https://github.com/Rajintha-09)
+
