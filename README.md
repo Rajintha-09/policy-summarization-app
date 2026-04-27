@@ -1,4 +1,4 @@
-markdown# Policy Summarization & Scenario Generator
+## Policy Summarization & Scenario Generator
 AI-powered system that summarises real-world policy documents and generates 
 scenario-based policy drafts using Generative AI.
 
@@ -57,4 +57,4 @@ streamlit run streamlit_app.py
 
 ## Author
 Your Name
-* GitHub: [your-username](https://github.com/your-username)
+* GitHub: [your-username](https://github.com/Rajintha-09)
